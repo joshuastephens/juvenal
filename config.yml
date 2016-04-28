@@ -1,0 +1,4 @@
+ProjectID: 'ultra-mason-109918'
+odbc_connection_string: 'Driver={SQL Server Native Client 11.0};Server=qdwsqlqa03;Database=SLVTN_WAREHOUSE_QA;Trusted_Connection=yes;'
+secret_key: '1gg97VP9r1VO60jWUscT2K4yc56vw2g7'
+analytics_link: 'https://slvtnwebtst01.arcadiahosted.local/reports/single_patient/'
